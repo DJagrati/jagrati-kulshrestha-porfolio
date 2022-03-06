@@ -1,0 +1,35 @@
+.portfolio-block{
+  margin: 20px 0px 20px 0px;
+  padding: 20px 0px 10px 0px;
+}
+
+.projectDiv{
+  height: auto;
+  margin: 20px 20px 30px 20px;
+  padding: 20px 20px 30px 20px;
+  background-color: rgba(25,0,8,0.15);
+}
+
+.screen {
+    border: 1px solid #9c9c9c;
+    border-bottom: none;
+    width: 250px;
+    height: 160px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #9c9c9c;
+    position: relative;
+    left: 15px;
+}
+
+.keyboard{
+  border: 5px solid #9c9c9c;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: 279px;
+}
+
+.projectImage{
+  display: flex;
+  justify-content: space-around;
+}

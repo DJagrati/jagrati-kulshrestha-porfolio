@@ -1,0 +1,45 @@
+.skills-div{
+  margin-bottom: 20px;
+}
+
+.content-block{
+  margin-left: 5vw;
+}
+
+.skills-image-div{
+  height: 60px;
+  width: 80px;
+  margin-bottom: 15px;
+}
+
+.skills-image{
+  height: 100%;
+  width: 100%;
+}
+
+.skills-be-image{
+  opacity: 0.75;
+}
+
+.div-for-roles{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.projectDiv{
+  height: auto;
+  margin: 20px 20px 30px 20px;
+  padding: 20px 20px 30px 20px;
+  background-color: rgba(25,0,8,0.15);
+}
+
+.company-logo{
+  margin: 2vh 0px 2vh 0px;
+  height: 60px;
+  width: auto;
+}
+
+.company-logo-img{
+  height: 100%;
+  width: auto;
+}
